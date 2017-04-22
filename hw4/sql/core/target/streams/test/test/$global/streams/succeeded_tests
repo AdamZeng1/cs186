@@ -1,0 +1,3 @@
+#Successful Tests
+#Tue Dec 20 23:35:18 MSK 2016
+org.apache.spark.sql.execution.joins.SymmetricHashJoinSuite=1482227770216
